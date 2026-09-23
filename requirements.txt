@@ -16,5 +16,11 @@ huggingface-hub
 
 python-dotenv
 
+langchain-classic
+langchain-experimental
+
+langchain-text-splitter
+
+
 numpy
 scikit-learn
